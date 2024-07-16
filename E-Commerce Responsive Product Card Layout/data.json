@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "product_image": "https://m.media-amazon.com/images/I/61l906x+fZL._AC_SL1500_.jpg",
+      "product_code": "HP67358",
+      "product_rating": 4.5,
+      "product_name": "JBL Quantum 100 Wired Over-Ear Gaming Headset with a Detachable Voice-Focus Boom Mic, QuantumSOUND Signature, Lightweight Headband, Memory Foam Ear Cushion, PC and Gaming Console Compatible - Black",
+      "discounted_price": 248,
+      "original_price": 320
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/71lMPFopeSL._AC_SL1500_.jpg",
+      "product_code": "SW67845",
+      "product_rating": 3.8,
+      "product_name": "HUAWEI Band 8 Smart Watch, Ultra-thin Design, Scientific Sleeping Tracking, 2-week battery life, Compatible with Android & iOS, 24/7 Health Management, Black",
+      "discounted_price": 100,
+      "original_price": 200
+    },
+    {
+      "product_image": "https://i0.wp.com/slickmobile.com.ng/wp-content/uploads/2024/03/samsung-galaxy-a05-4gb-128gb.webp?fit=350%2C350&ssl=1",
+      "product_code": "SP37528",
+      "product_rating": 4.2,
+      "product_name": "Samsung Galaxy A05, Android Smartphone, Dual SIM Mobile Phone, LTE, 4GB RAM, 64GB Storage, Light Green",
+      "discounted_price": 278,
+      "original_price": 388
+    },
+    {
+      "product_image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111941_sp776-mbp15touch-space.jpeg",
+      "product_code": "HP67358",
+      "product_rating": 4.8,
+      "product_name": "MacBook Pro (15-inch, 2019)",
+      "discounted_price": 756,
+      "original_price": 999
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/61l906x+fZL._AC_SL1500_.jpg",
+      "product_code": "HP67358",
+      "product_rating": 4.5,
+      "product_name": "JBL Quantum 100 Wired Over-Ear Gaming Headset with a Detachable Voice-Focus Boom Mic, QuantumSOUND Signature, Lightweight Headband, Memory Foam Ear Cushion, PC and Gaming Console Compatible - Black",
+      "discounted_price": 248,
+      "original_price": 320
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/71yo3bmyBnL.jpg",
+      "product_code": "GM87343",
+      "product_rating": 4.8,
+      "product_name": " Acer Nitro KG241Y Sbiip 23.8” Full HD (1920 x 1080) VA Gaming Monitor | AMD FreeSync Premium Technology | 165Hz Refresh Rate | 1ms (VRB) | ZeroFrame Design | 1 x Display Port 1.2 & 2 x HDMI 2.0,Black",
+      "discounted_price": 89.76,
+      "original_price": 172.54
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/71lMPFopeSL._AC_SL1500_.jpg",
+      "product_code": "SW67845",
+      "product_rating": 3.8,
+      "product_name": "HUAWEI Band 8 Smart Watch, Ultra-thin Design, Scientific Sleeping Tracking, 2-week battery life, Compatible with Android & iOS, 24/7 Health Management, Black",
+      "discounted_price": 100,
+      "original_price": 200
+    },
+    {
+      "product_image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111941_sp776-mbp15touch-space.jpeg",
+      "product_code": "HP67358",
+      "product_rating": 4.8,
+      "product_name": "MacBook Pro (15-inch, 2019)",
+      "discounted_price": 756,
+      "original_price": 999
+    },
+    {
+      "product_image": "https://i0.wp.com/slickmobile.com.ng/wp-content/uploads/2024/03/samsung-galaxy-a05-4gb-128gb.webp?fit=350%2C350&ssl=1",
+      "product_code": "SP37528",
+      "product_rating": 4.2,
+      "product_name": "Samsung Galaxy A05, Android Smartphone, Dual SIM Mobile Phone, LTE, 4GB RAM, 64GB Storage, Light Green",
+      "discounted_price": 278,
+      "original_price": 388
+    },
+    {
+      "product_image": "https://m.media-amazon.com/images/I/71yo3bmyBnL.jpg",
+      "product_code": "GM87343",
+      "product_rating": 4.8,
+      "product_name": " Acer Nitro KG241Y Sbiip 23.8” Full HD (1920 x 1080) VA Gaming Monitor | AMD FreeSync Premium Technology | 165Hz Refresh Rate | 1ms (VRB) | ZeroFrame Design | 1 x Display Port 1.2 & 2 x HDMI 2.0,Black",
+      "discounted_price": 89.76,
+      "original_price": 172.54
+    }
+  ]
+}
